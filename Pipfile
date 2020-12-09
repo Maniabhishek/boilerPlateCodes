@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 django-debug-toolbar = "*"
 pylint = "*"
+python-decouple = "*"
 
 [requires]
 python_version = "3.8"
